@@ -3,19 +3,8 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
-
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+I'm Chao-Yu Hung, an Operations Improvement Engneer at Micron.
+I have a super cute pug, probably the most adorable, handsome and sweet one you can find on the world.
 
 ## Current Role
 
@@ -27,6 +16,6 @@ Grace Hopper Celebration Attendee
 
 ## Social Media
 
-- Twitter
+- IG
 - LinkedIn
 - GitHub
